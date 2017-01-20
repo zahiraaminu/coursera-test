@@ -50,6 +50,7 @@ h3 {
 		color: black;
 		border: 1px solid black; 
 		margin:20px;
+		height: 150px;
 		}
 	/* desktop view*/
 			@media (min-width: 992px) {
