@@ -9,6 +9,7 @@ body{
 	p {
 		margin-right:20px;
 		padding:10px;
+		height: 950px;
 		
 	}
 h1 {
@@ -21,7 +22,7 @@ h3 {
 		width: 180px;
 		position:absolute;
 		border: 1px solid black;
-		height: 950px;
+		
 		/*margin-top:0px;
 		top: 0px;
 		right: 0px; */
