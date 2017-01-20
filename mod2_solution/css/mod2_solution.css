@@ -21,6 +21,7 @@ h3 {
 		width: 180px;
 		position:absolute;
 		border: 1px solid black;
+		height: 350px;
 		/*margin-top:0px;
 		top: 0px;
 		right: 0px; */
@@ -50,7 +51,7 @@ h3 {
 		color: black;
 		border: 1px solid black; 
 		margin:20px;
-		height: 350px;
+		
 		}
 	/* desktop view*/
 			@media (min-width: 992px) {
