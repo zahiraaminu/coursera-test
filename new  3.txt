@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <title>Assignment Solution for Module 3</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+<body>
+
+	<header>
+		<nav id="header-nav" class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<div class="navbar-brand" class="pull-left visible-xs"><h1>Food,LLC</h1>
+					</div>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					</div>
+				
+					<div id="collapsable-nav" class="collapse navbar-collapse">
+						<ul id="nav-list" class="nav navbarnav navbar-right visible-xs">
+							<li>
+								<a href="#">Chicken</a> <hr>
+							</li>
+							<li>
+								<a href="#">Beef</a> <hr>
+							</li>
+							<li>
+								<a href="#">Sushi</a>
+							</li>
+						</ul>	
+				</div> 
+		</nav>	
+	</header>
+  <!-- jQuery (Bootstrap JS plugins depend on it) -->
+  <script src="js/jquery-3.1.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+  
+  <h1> Our Menu </h1>
+ 
+			<div class="row">
+			<div class= "col-md-12 col-sm-12">
+			<section>
+			<h4 class= "section1"> Chicken</h4>
+			<p> The chicken (Gallus gallus domesticus) is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals.  
+			chicken chicken chicken. Beef is the culinary name for meat from cattle. 
+			Beef can be harvested from bulls, cows, heifers or steers. Its acceptability as a food source varies in different parts of the world.
+			beef beef beef beef. Sushi is the Japanese preparation and serving of cooked vinegared rice combined with varied ingredients ,chiefly seafood, vegetables, seasoning, meat, and occasionally tropical fruits. 
+			Sushi  Sushi Sushi Sushi</p>
+			</section>
+			</div>
+			
+			<div class= "col-md-12 col-sm-12">
+			<section>
+			<h4 class= "section2"> Beef</h4>
+			<p> The chicken (Gallus gallus domesticus) is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals.  
+			chicken chicken chicken. Beef is the culinary name for meat from cattle. 
+			Beef can be harvested from bulls, cows, heifers or steers. Its acceptability as a food source varies in different parts of the world.
+			beef beef beef beef. Sushi is the Japanese preparation and serving of cooked vinegared rice combined with varied ingredients ,chiefly seafood, vegetables, seasoning, meat, and occasionally tropical fruits. 
+			Sushi  Sushi Sushi Sushi</p>
+			</section>
+			</div>
+			
+			<div class= "col-md-12 col-sm-12 ">
+			<section>
+			<h4 class= "section3"> Sushi</h4>
+			<p> The chicken (Gallus gallus domesticus) is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals.  
+			chicken chicken chicken. Beef is the culinary name for meat from cattle. 
+			Beef can be harvested from bulls, cows, heifers or steers. Its acceptability as a food source varies in different parts of the world.
+			beef beef beef beef. Sushi is the Japanese preparation and serving of cooked vinegared rice combined with varied ingredients ,chiefly seafood, vegetables, seasoning, meat, and occasionally tropical fruits. 
+			Sushi  Sushi Sushi Sushi  </p>
+			</section>
+			</div>
+		</div>
+</body>
+</html>
